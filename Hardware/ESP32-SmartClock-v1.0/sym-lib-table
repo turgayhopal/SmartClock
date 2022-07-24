@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "TPS61022RWUR")(type "Legacy")(uri "${KIPRJMOD}/Lib/TPS61022RWUR.lib")(options "")(descr ""))
+  (lib (name "TTP223_")(type "Legacy")(uri "${KIPRJMOD}/Lib/TTP223_.lib")(options "")(descr ""))
+  (lib (name "LM4991MAXNOPB")(type "Legacy")(uri "${KIPRJMOD}/Lib/LM4991MAXNOPB.lib")(options "")(descr ""))
+)
